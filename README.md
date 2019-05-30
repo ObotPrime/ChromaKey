@@ -9,7 +9,7 @@ A side-scrolling platformer game made for my 10th grade programming class. It is
  - Collect coins and defeat enemies for score
  - Don't die!
 
-Screenshots of the game:
+### Screenshots of the game:
 
 ![Screenshot1](https://raw.githubusercontent.com/ObotPrime/the-transformers-operation-sunbow/master/TTOSscreenshot1.png)
 
