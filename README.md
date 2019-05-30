@@ -11,8 +11,10 @@ A side-scrolling platformer game made for my 10th grade programming class. It is
 
 ### Screenshots of the game:
 
-![Screenshot1](https://raw.githubusercontent.com/ObotPrime/the-transformers-operation-sunbow/master/TTOSscreenshot1.png)
+![Screenshot1](https://raw.githubusercontent.com/ObotPrime/ChromaKey/master/assets/Screenshot1.png)
 
-![Screenshot2](https://raw.githubusercontent.com/ObotPrime/the-transformers-operation-sunbow/master/TTOSscreenshot2.png)
+![Screenshot2](https://raw.githubusercontent.com/ObotPrime/ChromaKey/master/assets/Screenshot2.png)
 
-![Screenshot3](https://raw.githubusercontent.com/ObotPrime/the-transformers-operation-sunbow/master/TTOSscreenshot3.png)
+![Screenshot3](https://raw.githubusercontent.com/ObotPrime/ChromaKey/master/assets/Screenshot3.png)
+
+![Screenshot4](https://raw.githubusercontent.com/ObotPrime/ChromaKey/master/assets/Screenshot4.png)
