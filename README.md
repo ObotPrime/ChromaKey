@@ -2,7 +2,7 @@
 ### About
 A side-scrolling platformer game made for my 10th grade programming class. It is heavily inspired by early Nintendo Entertainment System games, with 8-Bit style sprite art and music composed to replicate the 2A03 sound chip.
 
-### How to play:
+### How to play
  - Arrow keys to move
  - Space to jump
  - Jump on enemies to defeat them (some might take more than one hit)
@@ -10,7 +10,7 @@ A side-scrolling platformer game made for my 10th grade programming class. It is
  - If you get damaged by enemies 3 times or fall into a pit, you die
  - Reach the flag to win
 
-### Screenshots of the game:
+### Screenshots of the game
 
 ![Screenshot1](https://raw.githubusercontent.com/ObotPrime/ChromaKey/master/assets/Screenshot1.png)
 
@@ -19,3 +19,6 @@ A side-scrolling platformer game made for my 10th grade programming class. It is
 ![Screenshot3](https://raw.githubusercontent.com/ObotPrime/ChromaKey/master/assets/Screenshot3.png)
 
 ![Screenshot4](https://raw.githubusercontent.com/ObotPrime/ChromaKey/master/assets/Screenshot4.png)
+
+### Downloads
+[ChromaKey.exe](https://github.com/ObotPrime/ChromaKey/releases/download/1.0/ChromaKey.exe)
