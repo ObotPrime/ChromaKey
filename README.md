@@ -22,3 +22,5 @@ A side-scrolling platformer game made for my 10th grade programming class. It is
 
 ### Downloads
 [ChromaKey.exe](https://github.com/ObotPrime/ChromaKey/releases/download/1.0/ChromaKey.exe)
+[Title Theme](https://github.com/ObotPrime/ChromaKey/releases/download/1.0/Title.Theme.wav)
+[Level Theme](https://github.com/ObotPrime/ChromaKey/releases/download/1.0/Red.Hills.wav)
