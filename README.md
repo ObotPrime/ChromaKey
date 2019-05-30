@@ -5,9 +5,10 @@ A side-scrolling platformer game made for my 10th grade programming class. It is
 ### How to play:
  - Arrow keys to move
  - Space to jump
- - Jump on enemies to defeat them
+ - Jump on enemies to defeat them (some might take more than one hit)
  - Collect coins and defeat enemies for score
- - Don't die!
+ - If you get damaged by enemies 3 times or fall into a pit, you die
+ - Reach the flag to win
 
 ### Screenshots of the game:
 
